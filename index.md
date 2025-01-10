@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# DLT4BPM 2025
+
 # Aim and scope
 
 The Workshop on Distributed Ledger Technologies in Business Process Management (DLT4BPM) invites submissions of papers on techniques for and applications of Distributed Ledger Technologies (DLTs), including blockchains and related approaches. We invite contributions of conceptual, technical, and application-oriented nature both from inside and outside the BPM community. We welcome submissions from students, researchers, and industry practitioners alike. Works showing relevance for contemporary organizations (governmental bodies or enterprises) and domains (from healthcare to education, from finance to logistics, etc.) are welcome.

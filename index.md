@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-# DLT4BPM 2025
 
 # Aim and scope
 

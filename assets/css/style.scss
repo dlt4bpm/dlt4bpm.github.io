@@ -1,16 +1,33 @@
 ---
 ---
 
-@import 'jekyll-theme-cayman';
+@import "{{ site.theme }}";
 .page-header {
   background-image: url("/assets/background.jpg");
   background-size: 100% auto;
-  color: black;
+}
+.project-wrapper {
+  background-color: rgba($color: #ffffff, $alpha: 0.8);
+  color: sienna;
+  border: solid 6px;
+  border-radius: 2px;
+  @media screen and (max-width: 768px) {
+    border: solid 5px;
+  }
+  @media screen and (max-width: 480px) {
+    border: solid 4px;
+  }
 }
 .project-name {
-  font-size: 120px;
+  // font-size: 120px;
+  opacity: 1;
 }
 .project-tagline {
-  font-size: 80px;
+  // font-size: 24px;
+  font-weight: bold;
+  opacity: 1;
 }
-  
+
+.main-content h1 {
+  color: sienna;
+}

@@ -6,11 +6,11 @@ layout: default
 
 # Aim and scope
 
-The Workshop on Distributed Ledger Technologies in Business Process Management (DLT4BPM) invites submissions of papers on techniques for and applications of Distributed Ledger Technologies (DLTs), including blockchains and related approaches. We invite contributions of conceptual, technical, and application-oriented nature both from inside and outside the BPM community. We welcome submissions from students, researchers, and industry practitioners alike. Works showing relevance for contemporary organizations (governmental bodies or enterprises) and domains (from healthcare to education, from finance to logistics, etc.) are welcome.
+The Workshop on Distributed Ledger Technologies in Business Process Management (DLT4BPM) invites submissions of papers on techniques for and applications of Distributed Ledger Technologies (DLTs), including blockchains and related approaches. We invite contributions of conceptual, technical, and application-oriented nature both from inside and outside the Business Process Management (BPM) community. We welcome submissions from students, researchers, and industry practitioners alike. Works showing relevance for contemporary organizations (governmental bodies or enterprises) and domains (from healthcare to education, from finance to logistics, etc.) are welcome.
 
 DLT systems open up diverse opportunities in the context of the BPM lifecycle to redesign business activities in a wide range of fields, including healthcare, supply chain, logistics, and finance. However, these opportunities come with challenges related to security, privacy, scalability, and performance.
 
-DLT has already seen both academic interest and practical adoption, and several approaches combine BPM and DLT, e.g., conceptual modeling for DLT and BPM, collaborative business process execution on DLT, process monitoring and auditing on data stored by distributed ledgers, secrecy-preserving sharing of data among actors in a multi-party process setting, the use of process mining to analyze and validate smart contracts, and many more.
+DLT has already seen both academic interest and practical adoption, and several approaches combine BPM and DLT, e.g., conceptual modeling for DLT and BPM, collaborative business process execution on DLT, process monitoring and auditing on data stored by distributed ledgers, secrecy-preserving data sharing among actors in a multi-party process setting, the use of process mining to analyze and validate smart contracts, and many more.
 
 The DLT4BPM workshop serves as a platform for discussing and introducing new research ideas in DLT and their applications. Relevant topics include, but are not limited to, the following:
 
@@ -18,7 +18,7 @@ The DLT4BPM workshop serves as a platform for discussing and introducing new res
 * Formal verification of DLT-based processes
 * Conceptual modeling for DLT and BPM
 * Domain-specific modeling languages for DLT and BPM
-* Taxonomies, ontologies and design patterns for DLT and BPM
+* Taxonomies, ontologies, and design patterns for DLT and BPM
 * Identification of novel problems and  research gaps
 * Vision papers on the future of DLT and BPM
 
@@ -30,8 +30,8 @@ The DLT4BPM workshop serves as a platform for discussing and introducing new res
 * On-chain and off-chain process execution and enactment
 * Scalable models for DLT-based process execution
 * Interoperability and cross-chain processes 
-* Oracles, off-chain and cross-chain information exchange for decision support
-* Distributed process monitoring, predictive models and anomaly detection
+* Oracles, off-chain, and cross-chain information exchange for decision support
+* Distributed process monitoring, predictive models, and anomaly detection
 * Distributed compliance monitoring and auditing
 * On-chain and off-chain data analytics and process mining
 * Self-sovereign identity solutions for DLT and BPM
@@ -53,16 +53,16 @@ The DLT4BPM workshop serves as a platform for discussing and introducing new res
 
 
 # Submissions
-Authors are invited to submit original, unpublished papers and abstracts within the workshop’s topics. Submissions must be written in English and cannot be simultaneously submitted to other journals or conferences. Submission Types:
+Authors are invited to submit original, unpublished papers and abstracts within the workshop’s topics. Submissions must be written in English and cannot be simultaneously submitted to other journals or conferences. Submission types:
 1. Full Research Papers: Full papers should provide comprehensive coverage of the research topic, including objectives, methodology, results, and conclusions. The maximum length is 15 pages, including figures, tables, references, etc.
 2. Research-in-Progress Abstracts (not included in the proceedings): We invite short abstracts (maximum 2 pages) on ongoing work, providing a high-level overview of emerging ideas, preliminary findings, or innovative concepts in DLT and BPM. Selected abstracts will be presented as lightning talks to spark discussion and engagement in the interactive session.
 
 Submissions must be prepared according to the format of Lecture Notes in Business Information Processing (LNBIP) specified by Springer. The title page must contain a short abstract and a list of keywords, preferably inspired by the list of topics above. Papers must be submitted electronically via EasyChair.
 
 # Important Dates
-* Workshop papers submission: June 6th, 2025
-* Workshop papers notification: July 3rd, 2025
-* Workshop date: September 1st, 2025
+* Workshop papers submission: June 6, 2025
+* Workshop papers notification: July 3, 2025
+* Workshop date: September 1, 2025
 
 # Workshop Chairs
 * Richard Hobeck, University of Berlin, Germany

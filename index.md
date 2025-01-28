@@ -59,7 +59,9 @@ Authors are invited to submit original, unpublished papers and abstracts within 
 1. **Full Research Papers**: Full papers should provide comprehensive coverage of the research topic, including objectives, methodology, results, and conclusions. The maximum length is 15 pages, including figures, tables, references, etc.
 2. **Lightning Talk Abstracts** (not included in the proceedings): We invite short abstracts (maximum 2 pages) on ongoing work, providing a high-level overview of emerging ideas, preliminary findings, or innovative concepts in DLT and BPM. Selected abstracts will be presented as lightning talks to spark discussion and engagement in the interactive session.
 
-Submissions must be prepared according to the format of Lecture Notes in Business Information Processing ([LNBIP](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)) specified by Springer. The title page must contain a short abstract and a list of keywords, preferably inspired by the list of topics above. Papers must be submitted electronically via EasyChair.
+Submissions must be prepared according to the format of Lecture Notes in Business Information Processing ([LNBIP](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)) specified by Springer. The title page must contain a short abstract and a list of keywords, preferably inspired by the list of topics above. 
+
+Papers must be submitted electronically via EasyChair: link
 
 # Important Dates
 * Paper submission deadline: **June 6, 2025**

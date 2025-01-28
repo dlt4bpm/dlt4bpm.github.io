@@ -12,7 +12,7 @@ DLT systems open diverse opportunities in Business Process Management (BPM) in a
 
 Academia and practice address those challenges from several angles: Conceptual modeling for DLT and BPM; Collaborative business process execution on DLT; Process monitoring and auditing on data stored by distributed ledgers; Secrecy-preserving data sharing among actors in a multi-party process setting; The use of process mining to analyze and validate smart contracts; and many more. 
 
-As an outlet at the intersection of DLTs and BPM, the DLT4BPM workshop welcomes contributions of conceptual, technical, and application-oriented nature from students, researchers, and industry practitioners alike. We encourage submissions relevant to enterprises, governmental bodies, and other organizational forms across diverse domains — such as healthcare, education, finance, logistics, and others.
+As an outlet at the intersection of DLTs and BPM, **the DLT4BPM workshop welcomes contributions of conceptual, technical, and application-oriented nature from students, researchers, and industry practitioners alike**. We encourage submissions relevant to enterprises, governmental bodies, and other organizational forms across diverse domains — such as healthcare, education, finance, logistics, and others.
 
 Topics relevant to the workshop include, but are not limited to:  
 
@@ -56,15 +56,15 @@ Topics relevant to the workshop include, but are not limited to:
 
 # Submissions
 Authors are invited to submit original, unpublished papers and abstracts within the workshop’s topics. Submissions must be written in English and cannot be simultaneously submitted to other journals or conferences. Submission types:
-1. Full Research Papers: Full papers should provide comprehensive coverage of the research topic, including objectives, methodology, results, and conclusions. The maximum length is 15 pages, including figures, tables, references, etc.
-2. Research-in-Progress Abstracts (not included in the proceedings): We invite short abstracts (maximum 2 pages) on ongoing work, providing a high-level overview of emerging ideas, preliminary findings, or innovative concepts in DLT and BPM. Selected abstracts will be presented as lightning talks to spark discussion and engagement in the interactive session.
+1. **Full Research Papers**: Full papers should provide comprehensive coverage of the research topic, including objectives, methodology, results, and conclusions. The maximum length is 15 pages, including figures, tables, references, etc.
+2. **Lightning Talk Abstracts** (not included in the proceedings): We invite short abstracts (maximum 2 pages) on ongoing work, providing a high-level overview of emerging ideas, preliminary findings, or innovative concepts in DLT and BPM. Selected abstracts will be presented as lightning talks to spark discussion and engagement in the interactive session.
 
 Submissions must be prepared according to the format of Lecture Notes in Business Information Processing ([LNBIP](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)) specified by Springer. The title page must contain a short abstract and a list of keywords, preferably inspired by the list of topics above. Papers must be submitted electronically via EasyChair.
 
 # Important Dates
-* Workshop papers submission: June 6, 2025
-* Workshop papers notification: July 3, 2025
-* Workshop date: September 1, 2025
+* Paper submission deadline: **June 6, 2025**
+* Paper notification: **July 3, 2025**
+* Workshop date: **September 1, 2025**
 
 # Workshop Chairs
 * Richard Hobeck, University of Berlin, Germany

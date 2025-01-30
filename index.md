@@ -61,7 +61,7 @@ Authors are invited to submit original, unpublished papers and abstracts within 
 
 Submissions must be prepared according to the format of Lecture Notes in Business Information Processing ([LNBIP](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)) specified by Springer. The title page must contain a short abstract and a list of keywords, preferably inspired by the list of topics above. 
 
-Papers must be submitted electronically via EasyChair: link
+Papers must be submitted electronically via EasyChair: [https://easychair.org/conferences/?conf=bpm2025](https://easychair.org/conferences/?conf=bpm2025)
 
 # Important Dates
 * Paper submission deadline: **June 6, 2025**

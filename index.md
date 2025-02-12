@@ -15,7 +15,7 @@ Academia and practice address those challenges from several angles: Conceptual m
 As an outlet at the intersection of DLTs and BPM, **the DLT4BPM workshop welcomes contributions of conceptual, technical, and application-oriented nature from students, researchers, and industry practitioners alike**. We encourage submissions relevant to enterprises, governmental bodies, and other organizational forms across diverse domains — such as healthcare, education, finance, logistics, and others.
 
 The workshop is co-located with the **23rd International Conference on Business Process Management**
-([BPM 2025](https://www.bpm2025seville.org/)), 31st Aug - 5th Sep 2025, in Sevilla, Spain.
+([BPM 2025](https://www.bpm2025seville.org/)), August 31 - September 5 2025, in Sevilla, Spain.
 
 Topics relevant to the workshop include, but are not limited to:  
 

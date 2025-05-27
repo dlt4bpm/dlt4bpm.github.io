@@ -67,7 +67,7 @@ Submissions must be prepared according to the format of Lecture Notes in Busines
 Papers must be submitted electronically via EasyChair: [https://easychair.org/conferences/?conf=bpm2025](https://easychair.org/conferences/?conf=bpm2025)
 
 # Important Dates
-* Paper submission deadline: **June 6, 2025**
+* Paper submission deadline: ~~June 6, 2025~~ **June 13, 2025**
 * Paper notification: **July 3, 2025**
 * Workshop date: **September 1, 2025**
 

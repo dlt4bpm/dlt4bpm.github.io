@@ -68,7 +68,7 @@ Papers must be submitted electronically via EasyChair: [https://easychair.org/co
 
 # Important Dates
 * Paper submission deadline: ~~June 6, 2025~~ **June 13, 2025**
-* Paper notification: **July 3, 2025**
+* Paper notification: ~~July 3, 2025~~ **July 10, 2025**
 * Workshop date: **September 1, 2025**
 
 # Workshop Chairs
